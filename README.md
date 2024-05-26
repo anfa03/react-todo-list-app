@@ -51,7 +51,7 @@ The app will be available at `http://localhost:5173/`.
     - `TodoForm.jsx`
     - `TodoList.jsx`
     - `TodoFilter.jsx`
-    - `TodoItem.jsx``
+    - `TodoItem.jsx`
   - `TodoProvider/`
     - `TodoContext.jsx`
   - `hooks/`
