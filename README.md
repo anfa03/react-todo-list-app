@@ -74,6 +74,5 @@ The app will be available at `http://localhost:5173/`.
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
 
-```
 ## Author
 Developed by Anfa Mohamed Hassan contact: anfacmohamed62@gmail.com
